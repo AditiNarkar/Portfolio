@@ -1,0 +1,35 @@
+html,body{
+    padding:0;
+    margin:0;
+    top:0;
+    left:0;
+}
+
+/*body{
+    background-image: url('images/bg2.jpg');
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: cover;
+}*/
+
+canvas.webgl{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+    z-index: -1;
+}
+
+div.main{
+    font-size: large;
+    color: wheat;
+    z-index: 200;
+}
+
+div.openmap{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    width:auto;
+    height: auto;
+}

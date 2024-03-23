@@ -1,0 +1,11 @@
+Model Information:
+* title:	Forestscene
+* source:	https://sketchfab.com/3d-models/forestscene-043c130b27204739a08526cfd25a8f53
+* author:	Bram Nicaise (https://sketchfab.com/fenyr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Forestscene" (https://sketchfab.com/3d-models/forestscene-043c130b27204739a08526cfd25a8f53) by Bram Nicaise (https://sketchfab.com/fenyr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
