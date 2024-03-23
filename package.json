@@ -4,7 +4,7 @@
   "description": "Note: Please ensure you have installed <code><a href=\"https://nodejs.org/en/download/\">nodejs</a></code>",
   "scripts": {
     "start": "nodemon app.js",
-    "build": "parcel build ./*.html  --dist-dir ./build"
+    "build": "nodemon app.js"
   },
   "author": "",
   "license": "ISC",
