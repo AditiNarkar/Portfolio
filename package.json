@@ -1,10 +1,13 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "Note: Please ensure you have installed <code><a href=\"https://nodejs.org/en/download/\">nodejs</a></code>",
+  "description": "Portfolio app",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
-    "start": "nodemon app.js",
-    "build": "nodemon app.js"
+    "start": "node app.js",
+    "test" : "echo \"error no test\" && exit 1"
   },
   "author": "",
   "license": "ISC",
