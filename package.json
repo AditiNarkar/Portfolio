@@ -7,13 +7,13 @@
   },
   "scripts": {
     "start": "node app.js",
-    "test" : "echo \"error no test\" && exit 1"
+    "build": "node app.js",
+    "test": "echo \"error no test\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "dat.gui": "^0.7.9",
-    "parcel": "^2.7.0"
+    "dat.gui": "^0.7.9"
   },
   "dependencies": {
     "body-parser": "^1.20.2",
