@@ -1,4 +1,7 @@
 
+node_modules/
+.env
+
 # OS generated files
 .DS_Store # macOS folder settings
 Thumbs.db # Windows image file cache
@@ -20,5 +23,3 @@ Desktop.ini # Windows desktop icon settings
 # Others
 *.log   # Log files
 
-/node modules/
-.env
